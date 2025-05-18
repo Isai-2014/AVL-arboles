@@ -1,2 +1,3 @@
-# AVL-arboles
-balance de arboles
+ Este proyecto te ofrece la oportunidad de explorar en profundidad cómo los árboles AVL mantienen su equilibrio de manera automática tras cada inserción o eliminación de nodos. Esta característica crucial garantiza que la altura del árbol se mantenga siempre en un orden logarítmico con respecto al número de elementos almacenados. ¿El resultado? Operaciones de búsqueda, inserción y eliminación increíblemente rápidas y predecibles, incluso con grandes cantidades de datos.
+
+Para que te sumerjas aún más en este concepto y veas la magia en acción, te comparto este valioso recurso visual  https://youtu.be/xNEvMeNyK18 
